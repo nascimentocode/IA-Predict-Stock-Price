@@ -12,13 +12,13 @@ O objetivo deste projeto é criar um modelo de previsão de ações utilizando t
 
     Utilizando HTTPS:
      ```bash
-     git clone https://github.com/nascimentocode/IA-Predict-Stock-Price.git
+     git clone https://github.com/nascimentocode/IA-predict-stock-price.git
      ```
   
      ou utilizando o SSH:
   
      ```bash
-     git clone git@github.com:nascimentocode/IA-Predict-Stock-Price.git
+     git clone git@github.com:nascimentocode/IA-predict-stock-price.git
      ```
 
 2. **Instale as Dependências**: Certifique-se de ter todas as dependências instaladas. Você pode fazer isso executando o seguinte comando no terminal:
